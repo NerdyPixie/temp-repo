@@ -11,7 +11,7 @@ app = FastAPI()
 handler = Mangum(app)
 
 
-MODEL = tf.keras.models.load_model('../saved_models/model.h5    ')
+MODEL = tf.keras.models.load_model('../saved_models/model.h5')
 
 classnames_file = '../class_names.txt'
 
