@@ -3,3 +3,4 @@ mangum==0.17.0
 tensorflow==2.15.0
 uvicorn
 pillow
+numpy
