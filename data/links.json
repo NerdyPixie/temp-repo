@@ -1,0 +1,155 @@
+{
+    "Apple__scab": {
+      "blog1": "https://en.wikipedia.org/wiki/Apple_scab",
+      "blog2": "https://agriculture.vic.gov.au/biosecurity/plant-diseases/fruit-and-nut-diseases/pome-fruits/apple-scab"
+    },
+    "Apple__black_rot": {
+      "blog1": "https://extension.umn.edu/plant-diseases/black-rot-apple",
+      "blog2": "https://apples.extension.org/black-rot-of-apple/"
+    },
+    "Apple__rust": {
+      "blog1": "https://extension.umn.edu/plant-diseases/cedar-apple-rust",
+      "blog2": "https://ohioline.osu.edu/factsheet/plpath-tree-10"
+    },
+    "Apple__healthy": {
+      "blog1": "https://en.wikipedia.org/wiki/Apple",
+      "blog2": "https://extension.umn.edu/fruit/growing-apples"
+    },
+    "Blueberry__healthy": {
+      "blog1": "https://en.wikipedia.org/wiki/Blueberry",
+      "blog2": "https://www.britannica.com/plant/blueberry-plant"
+    },
+    "Cherry__powdery_mildew": {
+      "blog1": "https://treefruit.wsu.edu/crop-protection/disease-management/cherry-powdery-mildew/",
+      "blog2": "https://extension.psu.edu/powdery-mildew-of-cherry-and-plum-in-home-fruit-plantings"
+    },
+    "Cherry__healthy": {
+      "blog1": "https://en.wikipedia.org/wiki/Cherry",
+      "blog2": "https://www.britannica.com/plant/cherry"
+    },
+    "Corn__gray_leaf_spot": {
+      "blog1": "https://en.wikipedia.org/wiki/Corn_grey_leaf_spot",
+      "blog2": "https://extension.umn.edu/corn-pest-management/gray-leaf-spot-corn"
+    },
+    "Corn__common_rust": {
+      "blog1": "https://extension.umn.edu/corn-pest-management/common-rust-corn",
+      "blog2": "https://ohioline.osu.edu/factsheet/plpath-cer-02"
+    },
+    "Corn__northern_leaf_blight": {
+      "blog1": "https://en.wikipedia.org/wiki/Northern_corn_leaf_blight",
+      "blog2": "https://extension.umn.edu/corn-pest-management/northern-corn-leaf-blight"
+    },
+    "Corn__healthy": {
+      "blog1": "https://en.wikipedia.org/wiki/Maize",
+      "blog2": "https://www.britannica.com/plant/corn-plant"
+    },
+    "Grape__black_rot": {
+      "blog1": "https://en.wikipedia.org/wiki/Black_rot_(grape_disease)",
+      "blog2": "https://ohioline.osu.edu/factsheet/plpath-fru-24"
+    },
+    "Grape__black_measles": {
+      "blog1": "https://en.wikipedia.org/wiki/Esca_(grape_disease)",
+      "blog2": "https://grapes.extension.org/grapevine-measles/"
+    },
+    "Grape__leaf_blight": {
+      "blog1": "https://www.dpi.nsw.gov.au/biosecurity/plant/insect-pests-and-plant-diseases/bacterial-blight",
+      "blog2": "https://www.canr.msu.edu/grapes/integrated_pest_management/diseases"
+    },
+    "Grape__healthy": {
+      "blog1": "https://en.wikipedia.org/wiki/Vitis_vinifera",
+      "blog2": "https://extension.umn.edu/fruit/growing-grapes-home-garden"
+    },
+    "Orange__haunglongbing_(citrus_greening)": {
+      "blog1": "https://en.wikipedia.org/wiki/Citrus_greening_disease",
+      "blog2": "https://www.aphis.usda.gov/plant-pests-diseases/citrus-diseases/citrus-greening"
+    },
+    "Peach__bacterial_spot": {
+      "blog1": "https://www.aces.edu/blog/topics/crop-production/bacterial-spot-treatment-in-peaches/",
+      "blog2": "https://www.canr.msu.edu/news/management_of_bacterial_spot_on_peaches_and_nectarines"
+    },
+    "Peach__healthy": {
+      "blog1": "https://www.thespruce.com/how-to-grow-and-care-for-peach-trees-4589455",
+      "blog2": "https://www.britannica.com/plant/peach"
+    },
+    "Bellpepper__bacterial_spot": {
+      "blog1": "https://extension.wvu.edu/lawn-gardening-pests/plant-disease/fruit-vegetable-diseases/bacterial-leaf-spot-of-pepper",
+      "blog2": "https://www.apsnet.org/edcenter/disandpath/prokaryote/pdlessons/Pages/Bacterialspot.aspx"
+    },
+    "Bellpepper__healthy": {
+      "blog1": "https://www.almanac.com/plant/bell-peppers",
+      "blog2": "https://www.gardeningknowhow.com/edible/vegetables/pepper/growing-peppers.htm"
+    },
+    "Potato__early_blight": {
+      "blog1": "https://vegpath.plantpath.wisc.edu/diseases/potato-early-blight/",
+      "blog2": "https://wiki.bugwood.org/HPIPM:Potato_Early_Blight"
+    },
+    "Potato__late_blight": {
+      "blog1": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_veg_potato_1.html",
+      "blog2": "https://www.ndsu.edu/agriculture/extension/publications/late-blight-potato"
+    },
+    "Potato__healthy": {
+      "blog1": "https://www.almanac.com/plant/potatoes",
+      "blog2": "https://extension.umd.edu/resource/growing-potatoes-home-garden/"
+    },
+    "Raspberry__healthy": {
+      "blog1": "https://www.almanac.com/plant/raspberries",
+      "blog2": "https://extension.umn.edu/fruit/growing-raspberries-home-garden"
+    },
+    "Soybean__healthy": {
+      "blog1": [],
+      "blog2": []
+    },
+    "Squash__powdery_mildew": {
+      "blog1": [],
+      "blog2": []
+    },
+    "Strawberry__leaf_scorch": {
+      "blog1": [],
+      "blog2": []
+    },
+    "Strawberry__healthy": {
+      "blog1": [],
+      "blog2": []
+    },
+    "Tomato__bacterial_spot": {
+      "blog1": [],
+      "blog2": []
+    },
+    "Tomato__early_blight": {
+      "blog1": [],
+      "blog2": []
+    },
+    "Tomato__late_blight": {
+      "blog1": [],
+      "blog2": []
+    },
+    "Tomato__leaf_mold": {
+      "blog1": [],
+      "blog2": []
+    },
+    "Tomato__septoria_leaf_spot": {
+      "blog1": [],
+      "blog2": []
+    },
+    "Tomato__spider_mites_(two_spotted_spider_mite)": {
+      "blog1": [],
+      "blog2": []
+    },
+    "Tomato__target_spot": {
+      "blog1": [],
+      "blog2": []
+    },
+    "Tomato__yellow_leaf_curl_virus": {
+      "blog1": [],
+      "blog2": []
+    },
+    "Tomato__mosaic_virus": {
+      "blog1": [],
+      "blog2": []
+    },
+    "Tomato__healthy": {
+      "blog1": [],
+      "blog2": []
+    }
+}
+  

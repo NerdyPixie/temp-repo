@@ -1,0 +1,277 @@
+{
+    "Apple__scab": [
+      "Apple scab is caused by a fungus called Venturia inaequalis.",
+      "This disease thrives in wet and cool weather, especially during spring and early summer when the conditions are just right for the fungus to grow.",
+      "It spreads through spores that are carried by the wind and rain, landing on leaves, fruits, and young branches where they cause dark, scabby spots.",
+      "Poor air circulation and prolonged leaf wetness make the trees more susceptible."
+    ],
+    
+    "Apple__black_rot": [
+      "Apple black rot is caused by a fungus named Botryosphaeria obtusa.",
+      "It primarily affects apples in warm and wet conditions, which are ideal for the fungus to develop and spread.",
+      "The fungus can enter through wounds in the tree or directly infect fruit, leading to rotten fruit, leaf spots, and cankers (dead, sunken areas) on branches.",
+      "Inadequate pruning and poor sanitation (leaving infected debris around) can increase the risk."
+    ],
+
+    "Apple__rust": [
+      "Apple rust is caused by fungi from the Gymnosporangium family.",
+      "This disease requires two different hosts to complete its life cycle: apple trees and juniper trees.",
+      "Spores from juniper trees spread to apple trees, causing yellow-orange spots on leaves and fruits.",
+      "High humidity and close proximity to infected juniper trees increase the likelihood of infection."
+    ],
+
+    "Apple__healthy": [
+      "Healthy apple trees result from good care and proper gardening practices.",
+      "Regular watering helps maintain the right moisture levels, while proper fertilization ensures the trees get the nutrients they need.",
+      "Pest and disease management is crucial; keeping the trees pruned and ensuring good air circulation helps prevent many issues.",
+      "Planting trees in well-drained soil and ensuring they get plenty of sunlight supports healthy growth."
+    ],
+
+    "Blueberry__healthy": [
+      "Healthy blueberry plants thrive in acidic, well-drained soil, which is essential for their root health.",
+      "They need consistent watering, but the soil should not be waterlogged as this can cause root rot.",
+      "Full sunlight is necessary for optimal growth and fruit production.",
+      "Regular pruning helps improve air circulation and reduces the risk of disease.",
+      "Monitoring for pests and diseases and applying mulch to retain soil moisture are also important."
+    ],
+
+    "Cherry__powdery_mildew": [
+      "Cherry powdery mildew is caused by a fungus called Podosphaera clandestina.",
+      "This disease favors warm, dry conditions and spreads via spores carried by the wind.",
+      "It appears as white, powdery spots on leaves, stems, and fruits, which can stunt growth and reduce fruit quality.",
+      "Overcrowded plantings and poor air circulation can exacerbate the problem."
+    ],
+
+    "Cherry__healthy": [
+      "Healthy cherry trees are the result of good care and proper gardening practices.",
+      "They need regular watering, ensuring the soil stays moist but not waterlogged.",
+      "Appropriate fertilization provides essential nutrients for growth and fruit production.",
+      "Effective pest and disease management, including regular monitoring and treatment, helps keep the trees healthy.",
+      "Planting trees in well-drained soil and ensuring they receive plenty of sunlight supports their overall health."
+    ],
+
+    "Corn__gray_leaf_spot": [
+      "Gray leaf spot in corn is caused by the fungus Cercospora zeae-maydis.",
+      "This disease thrives in warm, humid environments and is more prevalent during extended periods of wet weather.",
+      "The fungus produces spores that are spread by wind and rain, which then infect the leaves.",
+      "It shows up as small, grayish lesions on the leaves that can merge and cover large areas, reducing photosynthesis and yield."
+    ],
+    
+    "Corn__common_rust": [
+      "Common rust in corn is caused by the fungus Puccinia sorghi.",
+      "This disease is favored by moderate temperatures and high humidity.",
+      "It spreads through wind-borne spores that can travel long distances.",
+      "You will notice small, reddish-brown pustules on both upper and lower leaf surfaces, which can reduce the plant's ability to photosynthesize effectively."
+    ],
+
+    "Corn__northern_leaf_blight": [
+      "Northern leaf blight in corn is caused by the fungus Exserohilum turcicum.",
+      "It prefers cool, wet conditions, often following periods of rain or heavy dew.",
+      "The fungus produces spores that spread through wind and rain, infecting the leaves.",
+      "This disease manifests as long, grayish-green lesions on the leaves, which can turn tan and dry out, significantly impacting yield."
+    ],
+
+    "Corn__healthy": [
+      "Healthy corn plants are the result of optimal growing conditions and proper agricultural practices.",
+      "They need well-drained soil, adequate watering, and the right balance of nutrients, particularly nitrogen.",
+      "Regular monitoring for pests and diseases, along with timely treatments, helps keep the plants healthy.",
+      "Ensuring good crop rotation and avoiding monoculture can also prevent disease buildup in the soil."
+    ],
+
+    "Grape__black_rot": [
+      "Black rot in grapes is caused by the fungus Guignardia bidwellii.",
+      "This disease thrives in warm, wet conditions, particularly during late spring and early summer.",
+      "It spreads via spores that are carried by wind and rain to infect leaves, stems, and fruit.",
+      "Symptoms include small, brown spots on leaves that enlarge and turn black, as well as shriveled, blackened berries."
+    ],
+
+    "Grape__black_measles": [
+      "Black measles, also known as esca, in grapes is caused by a complex of fungi including Phaeomoniella chlamydospora and Phaeoacremonium aleophilum.",
+      "It is favored by warm, dry conditions and often affects older vines.",
+      "The disease spreads through water and soil, infecting the vine's wood and vascular system.",
+      "Symptoms include dark streaks on leaves, black spots on berries, and internal wood decay, leading to reduced vine vigor and productivity."
+    ],
+
+    "Grape__leaf_blight": [
+      "Grape leaf blight is caused by the fungus Pseudocercospora vitis.",
+      "This disease prefers warm, wet conditions and spreads through wind-borne spores.",
+      "It shows up as small, dark spots on leaves that expand to form large, irregularly shaped lesions.",
+      "Severe infections can cause leaf drop, reducing the plant's ability to photosynthesize and impacting fruit quality and yield."
+    ],
+
+    "Grape__healthy": [
+      "Healthy grapevines result from good cultural practices and optimal growing conditions.",
+      "They require well-drained soil, adequate water, and balanced fertilization, particularly with nutrients like potassium and magnesium.",
+      "Regular pruning helps improve air circulation and sunlight penetration, reducing the risk of disease.",
+      "Monitoring for pests and diseases and applying appropriate treatments when necessary keeps the vines healthy."
+    ],
+
+    "Orange__haunglongbing_(citrus_greening)": [
+        "Citrus greening, also known as Huanglongbing (HLB), is caused by a bacterium called Candidatus Liberibacter.",
+        "The disease is spread by a small insect called the Asian citrus psyllid.",
+        "Infected trees show yellowing leaves, misshapen and bitter fruit, and ultimately die over time.",
+        "There is no cure for HLB, making prevention and control of the psyllid crucial."
+    ],
+
+    "Peach__bacterial_spot": [
+        "Bacterial spot in peaches is caused by the bacterium Xanthomonas arboricola pv. pruni.",
+        "The disease thrives in warm, wet conditions and is spread by rain, wind, and contaminated tools.",
+        "Symptoms include small, water-soaked spots on leaves, fruit, and twigs, which can lead to leaf drop and fruit blemishes.",
+        "Infection is more severe on young, actively growing leaves and fruit."
+    ],
+
+    "Peach__healthy": [
+        "Healthy peach trees are the result of good care and proper cultural practices.",
+        "They need well-drained soil, regular watering, and balanced fertilization, particularly with nitrogen and potassium.",
+        "Pruning helps improve air circulation and sunlight penetration, reducing the risk of disease.",
+        "Regular monitoring and treatment for pests and diseases keep the trees healthy."
+    ],
+
+    "Bellpepper__bacterial_spot": [
+        "Bacterial spot in bell peppers is caused by various strains of Xanthomonas campestris pv. vesicatoria.",
+        "The disease thrives in warm, wet conditions and spreads through rain, irrigation, and contaminated tools or plants.",
+        "Symptoms include water-soaked spots on leaves, stems, and fruit, which can turn dark and become sunken.",
+        "Severe infections can cause leaf drop, stunted growth, and unmarketable fruit."
+    ],
+
+    "Bellpepper__healthy": [
+        "Healthy bell pepper plants result from proper care and optimal growing conditions.",
+        "They need well-drained soil, consistent watering, and balanced fertilization, particularly with nitrogen, phosphorus, and potassium.",
+        "Good air circulation and proper spacing help reduce the risk of disease.",
+        "Regular monitoring and treatment for pests and diseases keep the plants healthy."
+    ],
+    
+    "Potato__early_blight": [
+        "Early blight in potatoes is caused by the fungus Alternaria solani.",
+        "The disease thrives in warm, humid conditions and spreads through wind, rain, and contaminated soil or plant debris.",
+        "Symptoms include dark, concentric spots on leaves, stems, and tubers, which can cause leaf drop and reduce yield.",
+        "Infection is more severe on older, lower leaves and plants under stress."
+    ],
+
+    "Potato__late_blight": [
+        "Late blight in potatoes is caused by the oomycete Phytophthora infestans.",
+        "The disease thrives in cool, wet conditions and spreads rapidly through wind and rain.",
+        "Symptoms include water-soaked lesions on leaves and stems, which can turn brown and necrotic, and white mold on the undersides of leaves.",
+        "Tubers can develop brown, rotted areas, leading to significant yield loss."
+    ],
+
+    "Potato__healthy": [
+        "Healthy potato plants result from good care and proper cultural practices.",
+        "They need well-drained soil, regular watering, and balanced fertilization, particularly with nitrogen, phosphorus, and potassium.",
+        "Hilling soil around the base of the plants helps protect tubers from light and pests.",
+        "Regular monitoring and treatment for pests and diseases keep the plants healthy."
+    ],
+
+    "Raspberry__healthy": [
+        "Healthy raspberry plants thrive when they are provided with the right growing conditions.",
+        "They need well-drained soil, rich in organic matter, and regular watering to keep the soil consistently moist but not waterlogged.",
+        "Full sunlight is essential for optimal growth and fruit production.",
+        "Proper pruning and training improve air circulation and sunlight penetration, reducing the risk of disease.",
+        "Regular monitoring for pests and diseases, along with appropriate treatments, helps maintain plant health."
+    ],
+
+    "Soybean__healthy": [
+        "Healthy soybean plants result from proper agricultural practices and optimal growing conditions.",
+        "They need well-drained, fertile soil with a good balance of nutrients, particularly nitrogen, phosphorus, and potassium.",
+        "Adequate water, especially during the flowering and pod-filling stages, is crucial for good yields.",
+        "Crop rotation and the use of disease-resistant varieties help prevent soil-borne diseases.",
+        "Regular monitoring for pests and diseases and timely application of treatments ensure healthy growth."
+    ],
+
+    "Squash__powdery_mildew": [
+        "Powdery mildew on squash is caused by various fungi, commonly Erysiphe cichoracearum and Podosphaera xanthii.",
+        "This disease thrives in warm, dry conditions and spreads via wind-borne spores.",
+        "It appears as white, powdery spots on leaves, stems, and sometimes fruit, which can merge and cover large areas.",
+        "Infection can cause leaves to yellow and die, reducing photosynthesis and yield.",
+        "Poor air circulation and overcrowded plants can exacerbate the problem."
+    ],
+
+    "Strawberry__leaf_scorch": [
+        "Leaf scorch in strawberries is caused by the fungus Diplocarpon earlianum.",
+        "The disease thrives in warm, wet conditions, particularly during periods of high humidity.",
+        "Symptoms include small, irregular, dark purple or brown spots on leaves that enlarge and coalesce, giving a scorched appearance.",
+        "Severe infections can lead to leaf drop and reduced plant vigor and yield.",
+        "Overcrowded plantings and poor air circulation can increase the risk of infection."
+    ],
+
+    "Strawberry__healthy": [
+        "Healthy strawberry plants result from proper care and optimal growing conditions.",
+        "They need well-drained, slightly acidic soil rich in organic matter, and regular watering to keep the soil consistently moist.",
+        "Full sunlight is essential for optimal growth and fruit production.",
+        "Mulching helps retain soil moisture, suppress weeds, and protect fruits from soil-borne diseases.",
+        "Regular monitoring for pests and diseases, and appropriate treatments when necessary, help maintain plant health."
+    ],
+    
+    "Tomato__bacterial_spot": [
+        "Bacterial spot in tomatoes is caused by various strains of the bacterium Xanthomonas campestris pv. vesicatoria.",
+        "The disease thrives in warm, wet conditions and spreads through rain, irrigation, and contaminated tools or plants.",
+        "Symptoms include small, water-soaked spots on leaves, stems, and fruit, which can turn dark and become sunken.",
+        "Severe infections can cause leaf drop, stunted growth, and unmarketable fruit."
+    ],
+
+    "Tomato__early_blight": [
+        "Early blight in tomatoes is caused by the fungus Alternaria solani.",
+        "The disease thrives in warm, humid conditions and spreads through wind, rain, and contaminated soil or plant debris.",
+        "Symptoms include dark, concentric spots on leaves, stems, and fruit, which can cause leaf drop and reduce yield.",
+        "Infection is more severe on older, lower leaves and plants under stress."
+    ],
+
+    "Tomato__late_blight": [
+        "Late blight in tomatoes is caused by the oomycete Phytophthora infestans.",
+        "The disease thrives in cool, wet conditions and spreads rapidly through wind and rain.",
+        "Symptoms include water-soaked lesions on leaves and stems, which can turn brown and necrotic, and white mold on the undersides of leaves.",
+        "Fruit can develop brown, rotted areas, leading to significant yield loss."
+    ],
+
+    "Tomato__leaf_mold": [
+        "Leaf mold in tomatoes is caused by the fungus Fulvia fulva (also known as Cladosporium fulvum).",
+        "The disease thrives in high humidity and poor air circulation, often affecting greenhouse-grown tomatoes.",
+        "Symptoms include pale green or yellow spots on the upper leaf surface and olive-green to grayish-purple mold on the undersides.",
+        "Severe infections can cause leaves to wither and drop, reducing the plant's ability to photosynthesize."
+    ],
+
+    "Tomato__septoria_leaf_spot": [
+        "Septoria leaf spot in tomatoes is caused by the fungus Septoria lycopersici.",
+        "The disease thrives in warm, wet conditions and spreads through rain, irrigation, and contaminated soil or plant debris.",
+        "Symptoms include small, circular spots with dark borders and grayish centers on leaves, which can cause yellowing and leaf drop.",
+        "Severe infections can reduce plant vigor and yield by limiting photosynthesis."
+    ],
+
+    "Tomato__spider_mites_(two_spotted_spider_mite)": [
+        "Two-spotted spider mites are tiny arachnids that feed on tomato plants, causing significant damage.",
+        "These pests thrive in hot, dry conditions and can rapidly increase in numbers.",
+        "Spider mites feed by piercing plant cells and sucking out the contents, which results in stippling or speckling on the leaves.",
+        "Severe infestations can lead to webbing on the plant, leaf yellowing, and eventual leaf drop, reducing plant vigor and yield."
+    ],
+
+    "Tomato__target_spot": [
+        "Target spot in tomatoes is caused by the fungus Corynespora cassiicola.",
+        "The disease thrives in warm, humid conditions and spreads through wind, rain, and contaminated plant debris.",
+        "Symptoms include small, brown spots with a distinctive target-like appearance on leaves, stems, and fruit.",
+        "Severe infections can cause significant leaf drop, reducing the plant's ability to photosynthesize and leading to lower yields."
+    ],
+
+    "Tomato__yellow_leaf_curl_virus": [
+        "Tomato yellow leaf curl virus (TYLCV) is transmitted by the silverleaf whitefly (Bemisia tabaci).",
+        "The disease is favored by warm conditions and can spread rapidly in affected areas.",
+        "Symptoms include yellowing and curling of leaves, stunted growth, and reduced fruit production.",
+        "Infected plants often produce little to no fruit, making this virus a serious threat to tomato crops."
+    ],
+
+    "Tomato__mosaic_virus": [
+        "Tomato mosaic virus (ToMV) is a highly contagious virus that spreads through contaminated soil, tools, and plant material.",
+        "The virus can survive for long periods in plant debris and on surfaces.",
+        "Symptoms include mottled, light and dark green patterns on the leaves, leaf distortion, and stunted growth.",
+        "Infected plants may produce smaller, less flavorful fruit, and overall yield can be significantly reduced."
+    ],
+
+    "Tomato__healthy": [
+        "Healthy tomato plants result from proper care and optimal growing conditions.",
+        "They need well-drained soil rich in organic matter, regular watering, and balanced fertilization, particularly with nitrogen, phosphorus, and potassium.",
+        "Full sunlight is essential for vigorous growth and high fruit production.",
+        "Good air circulation, proper spacing, and staking or trellising help prevent disease and pest problems.",
+        "Regular monitoring for pests and diseases, along with timely and appropriate treatments, keeps tomato plants healthy."
+    ]
+      
+}
+    

@@ -1,0 +1,5 @@
+tensorflow==2.15.0
+uvicorn
+pillow
+fastapi==0.111.0
+mangum==0.17.0

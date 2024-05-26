@@ -1,0 +1,409 @@
+{
+  "Apple__scab": [
+    "Apply fungicides labeled for scab control, following recommended application timings and rates.",
+    "Prune trees to improve air circulation and reduce humidity, which helps prevent scab development.",
+    "Remove and destroy fallen leaves and other debris to reduce overwintering inoculum."
+  ],
+
+  "Apple__black_rot": [
+    "Remove and destroy infected plant parts.",
+    "Apply fungicides according to label instructions.",
+    "Ensure proper sanitation practices in the orchard."
+  ],
+
+  "Apple__rust": [
+    "Remove and destroy infected leaves.",
+    "Apply fungicides labeled for rust control.",
+    "Ensure good air circulation and reduce humidity."
+  ],
+
+  "Apple__healthy": [
+    "No countermeasures required. Your plant is healthy!"
+  ],
+
+  "Blueberry__healthy": [
+    "No countermeasures required. Your plant is healthy!"
+  ],
+
+  "Cherry__powdery_mildew": [
+    "Prune infected branches and remove affected leaves.",
+    "Apply fungicides labeled for powdery mildew control.",
+    "Ensure proper spacing between plants for good air circulation."
+  ],
+
+  "Cherry__healthy": [
+    "No countermeasures required. Your plant is healthy!"
+  ],
+
+  "Chili__healthy": [
+    "Provide adequate water and nutrients to maintain plant health and vigor.",
+    "Monitor for pests and diseases, and promptly address any issues that arise.",
+    "Practice crop rotation and proper sanitation to reduce disease pressure in the field."
+  ],
+
+  "Chili__leaf curl": [
+    "Remove and destroy infected plant material to prevent disease spread.",
+    "Apply insecticides to control whiteflies, which can transmit the virus that causes leaf curl.",
+    "Use resistant varieties when available and appropriate for the disease."
+  ],
+
+  "Chili__leaf spot": [
+    "Apply fungicides labeled for leaf spot control, following recommended application timings and rates.",
+    "Practice crop rotation to reduce disease buildup in the soil.",
+    "Maintain proper spacing between plants to improve air circulation and reduce humidity."
+  ],
+
+  "Chili__whitefly": [
+    "Monitor for whitefly populations and apply insecticides when thresholds are exceeded.",
+    "Use reflective mulches or insect traps to disrupt whitefly feeding and reproduction.",
+    "Introduce natural enemies such as parasitic wasps to help control whitefly populations."
+  ],
+
+  "Chili__yellowish": [
+    "Monitor soil moisture levels and adjust irrigation practices to prevent water stress, which can contribute to yellowing.",
+    "Test soil pH and nutrient levels, and amend as needed to ensure proper plant nutrition.",
+    "Scout for pests and diseases that can cause yellowing symptoms, and implement appropriate management strategies."
+  ],
+
+  "Coffee__cercospora_leaf_spot": [
+    "Apply fungicides labeled for cercospora leaf spot control, following recommended application timings and rates.",
+    "Practice cultural methods such as pruning and thinning to improve air circulation and reduce humidity, which can help prevent disease development.",
+    "Implement proper sanitation practices by removing and destroying infected plant material to reduce disease inoculum."
+  ],
+
+  "Coffee__healthy": [
+    "Implement good cultural practices such as proper irrigation, fertilization, and shade management to promote plant health and vigor.",
+    "Monitor for pests and diseases regularly, and promptly address any issues that arise.",
+    "Practice integrated pest management (IPM) strategies to prevent disease outbreaks and maintain plant productivity."
+  ],
+
+  "Coffee__red_spider_mite": [
+    "Apply acaricides or miticides labeled for red spider mite control, following recommended application timings and rates.",
+    "Introduce natural enemies such as predatory mites or ladybugs to help control red spider mite populations.",
+    "Monitor environmental conditions such as temperature and humidity, as red spider mites thrive under hot and dry conditions."
+  ],
+
+  "Coffee__rust": [
+    "Apply fungicides labeled for coffee rust control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Practice cultural methods such as pruning to remove infected plant material and reduce disease spread.",
+    "Implement proper shade management and spacing between plants to promote air circulation and reduce humidity, which can help prevent rust infections."
+  ],
+
+  "Corn__common_rust": [
+    "Apply fungicides labeled for common rust control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Practice crop rotation to break disease cycles and reduce pathogen buildup in the soil.",
+    "Monitor for early signs of rust infection and promptly apply fungicides or other control measures to prevent disease spread."
+  ],
+
+  "Corn__gray_leaf_spot": [
+    "Apply fungicides labeled for gray leaf spot control, following recommended application timings and rates.",
+    "Implement cultural practices such as proper irrigation and spacing between plants to reduce humidity and minimize disease pressure.",
+    "Select corn varieties with resistance or tolerance to gray leaf spot when available and appropriate for the growing region."
+  ],
+
+  "Corn__healthy": [
+    "Implement good agronomic practices such as proper planting density, irrigation, and fertilization to promote plant health and vigor.",
+    "Rotate crops to break disease cycles and reduce pathogen buildup in the soil.",
+    "Scout fields regularly for signs of pests and diseases, and take timely action to manage any issues that arise."
+  ],
+
+  "Corn__northern_leaf_blight": [
+    "Apply fungicides labeled for northern leaf blight control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Practice crop rotation and residue management to reduce overwintering inoculum and minimize disease risk in subsequent plantings.",
+    "Select corn hybrids with resistance or tolerance to northern leaf blight when available and appropriate for the growing region."
+  ],
+
+  "Cucumber__diseased": [
+    "Remove and destroy infected plant parts to prevent further spread of the disease.",
+    "Apply fungicides labeled for the specific cucumber disease, following recommended application timings and rates.",
+    "Practice proper sanitation in the greenhouse or field to reduce disease inoculum and prevent disease recurrence."
+  ],
+
+  "Cucumber__healthy": [
+    "Implement good cultural practices such as proper irrigation, fertilization, and spacing to promote plant health and vigor.",
+    "Monitor for signs of pests and diseases regularly, and promptly address any issues that arise.",
+    "Practice crop rotation and proper field sanitation to reduce disease pressure and maintain plant health in subsequent plantings."
+  ],
+
+  "Gauva__diseased": [
+    "Prune infected branches to remove diseased tissue and improve air circulation within the canopy.",
+    "Apply fungicides labeled for the specific guava disease, following recommended application timings and rates.",
+    "Maintain proper irrigation practices to avoid overwatering, as excess moisture can promote disease development."
+  ],
+
+  "Gauva__healthy": [
+    "Implement good cultural practices such as proper irrigation, fertilization, and mulching to promote plant health and vigor.",
+    "Monitor for signs of pests and diseases regularly, and promptly address any issues that arise.",
+    "Practice pruning to remove dead or diseased branches and encourage strong, healthy growth."
+  ],
+
+  "Grape__black_measles": [
+    "Apply fungicides labeled for black measles control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Remove and destroy infected plant material to reduce disease inoculum and prevent spread to healthy vines.",
+    "Implement proper vineyard management practices such as trellising and canopy management to improve air circulation and reduce humidity."
+  ],
+
+  "Grape__black_rot": [
+    "Apply fungicides labeled for black rot control, following recommended application timings and rates.",
+    "Practice canopy management techniques such as leaf removal to improve air circulation and reduce humidity, which can help prevent disease development.",
+    "Remove and destroy infected berries promptly to reduce disease spread within the vineyard."
+  ],
+
+  "Grape__healthy": [
+    "Implement proper vineyard management practices such as pruning, trellising, and canopy management to promote vine health and vigor.",
+    "Monitor for signs of pests and diseases regularly, and promptly address any issues that arise.",
+    "Practice disease-resistant grape variety selection where appropriate to reduce reliance on chemical controls."
+  ],
+
+  "Grape__leaf_blight": [
+    "Apply fungicides labeled for leaf blight control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Remove and destroy infected leaves to reduce disease inoculum and prevent spread to healthy vines.",
+    "Practice proper vineyard management practices such as pruning and canopy management to improve air circulation and reduce humidity."
+  ],
+
+  "Lemon__diseased": [
+    "Prune infected branches to remove diseased tissue and improve air circulation within the canopy.",
+    "Apply fungicides labeled for the specific lemon disease, following recommended application timings and rates.",
+    "Ensure proper irrigation and drainage to avoid water stress, as excessive moisture can exacerbate disease symptoms."
+  ],
+
+  "Lemon__healthy": [
+    "Implement good cultural practices such as proper irrigation, fertilization, and pruning to promote plant health and vigor.",
+    "Monitor for signs of pests and diseases regularly, and promptly address any issues that arise.",
+    "Maintain proper soil pH and nutrient levels to support healthy lemon tree growth and minimize stress."
+  ],
+
+  "Mango__diseased": [
+    "Prune infected branches to remove diseased tissue and improve air circulation within the canopy.",
+    "Apply fungicides labeled for the specific mango disease, following recommended application timings and rates.",
+    "Monitor for signs of pests such as mango seed weevils, which can exacerbate disease problems, and implement appropriate control measures."
+  ],
+  
+  "Mango__healthy": [
+    "Implement good cultural practices such as proper irrigation, fertilization, and mulching to promote plant health and vigor.",
+    "Monitor for signs of pests and diseases regularly, and promptly address any issues that arise.",
+    "Maintain proper tree spacing and pruning to improve air circulation and reduce humidity, which can help prevent disease development."
+  ],
+
+  "Money_plant__bacterial_disease": [
+    "Prune infected parts of the money plant to remove diseased tissue and prevent further spread of the bacterial disease.",
+    "Apply copper-based fungicides or bactericides labeled for bacterial disease control, following recommended application timings and rates.",
+    "Ensure proper watering practices and avoid overhead irrigation to reduce moisture on the foliage, which can promote bacterial disease development."
+  ],
+
+  "Money_plant__healthy": [
+    "Implement good cultural practices such as proper watering, fertilization, and regular pruning to promote plant health and vigor.",
+    "Monitor for signs of pests and diseases regularly, and promptly address any issues that arise.",
+    "Provide adequate sunlight and air circulation to maintain optimal growing conditions for the money plant."
+  ],
+
+  "Money_plant__manganese_toxicity": [
+    "Test soil pH and nutrient levels to identify imbalances and adjust fertilizer applications accordingly.",
+    "Apply manganese chelates or other soil amendments to correct manganese toxicity in the soil, if necessary.",
+    "Practice proper irrigation management to avoid waterlogging and minimize manganese uptake by the money plant roots."
+  ],
+
+  "Orange__huanglongbing_(citrus_greening)": [
+    "Use insecticides to control the Asian citrus psyllid, the vector responsible for spreading huanglongbing, following recommended application timings and rates.",
+    "Implement cultural practices such as regular monitoring and removal of infected trees to prevent the spread of the disease.",
+    "Adopt biological control methods by introducing natural predators of the Asian citrus psyllid to help manage its population."
+  ],
+
+  "Peach__bacterial_spot": [
+    "Apply bactericides such as copper-based compounds or antibiotics labeled for bacterial spot control, following recommended application timings and rates.",
+    "Choose resistant or tolerant peach cultivars to reduce the impact of bacterial spot.",
+    "Implement proper sanitation practices by removing and destroying infected plant material to reduce disease inoculum."
+  ],
+    
+  "Peach__healthy": [
+    "Maintain a regular schedule of fertilization and irrigation to ensure trees receive adequate nutrients and water.",
+    "Practice proper pruning techniques to improve air circulation and sunlight penetration, reducing the risk of disease and pest infestations.",
+    "Monitor for pests and diseases regularly and apply appropriate integrated pest management (IPM) strategies to keep peach trees healthy."
+  ],
+
+  "Bellpepper__bacterial_spot": [
+    "Apply copper-based fungicides or bactericides labeled for bacterial spot control, following recommended application timings and rates.",
+    "Avoid overhead irrigation and provide adequate spacing between plants to reduce moisture on the foliage and minimize disease spread.",
+    "Rotate pepper bell crops with non-host plants to break disease cycles and reduce pathogen buildup in the soil."
+  ],
+
+  "Bellpepper__healthy": [
+    "Implement good cultural practices such as proper irrigation, fertilization, and spacing to promote plant health and vigor.",
+    "Monitor for signs of pests and diseases regularly, and promptly address any issues that arise.",
+    "Scout for early symptoms of bacterial spot and implement preventive measures such as pruning and sanitation to minimize disease spread."
+  ],
+
+  "Potato__early_blight": [
+    "Apply fungicides labeled for early blight control, following recommended application timings and rates.",
+    "Practice crop rotation and remove potato debris from the field after harvest to reduce disease inoculum in subsequent plantings.",
+    "Provide adequate spacing between potato plants to improve air circulation and reduce humidity, which can help prevent disease development."
+  ],
+
+  "Potato__healthy": [
+    "Implement good cultural practices such as proper irrigation, fertilization, and soil management to promote plant health and vigor.",
+    "Monitor for signs of pests and diseases regularly, and promptly address any issues that arise.",
+    "Select potato varieties with resistance or tolerance to early blight when available and appropriate for the growing region."
+  ],
+
+  "Potato__late_blight": [
+    "Apply fungicides labeled for late blight control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Implement cultural practices such as proper irrigation and fungicide application timings to minimize disease spread.",
+    "Monitor for early symptoms of late blight and apply preventive fungicides to protect potato plants from infection."
+  ],
+
+  "Raspberry__healthy": [
+    "Ensure proper site selection with well-drained soil and full sunlight to promote healthy raspberry growth.",
+    "Practice regular pruning and thinning to improve air circulation and sunlight penetration, reducing the risk of disease.",
+    "Maintain consistent watering and fertilization schedules to provide raspberries with adequate nutrients and moisture."
+  ],
+
+  "Rice__brown_spot": [
+    "Apply fungicides labeled for brown spot control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Practice crop rotation and remove rice debris from the field after harvest to reduce disease inoculum in subsequent plantings.",
+    "Implement proper irrigation management to avoid water stress, as excess moisture can exacerbate brown spot symptoms."
+  ],
+
+  "Rice__healthy": [
+    "Implement good cultural practices such as proper irrigation, fertilization, and field drainage to promote rice plant health and vigor.",
+    "Monitor for signs of pests and diseases regularly, and promptly address any issues that arise.",
+    "Practice integrated pest management (IPM) strategies to minimize the risk of brown spot and other diseases."
+  ],
+
+  "Rice__hispa": [
+    "Apply insecticides labeled for hispa control, following recommended application timings and rates.",
+    "Implement cultural practices such as planting early-maturing rice varieties and avoiding excessive nitrogen fertilization, which can attract hispa.",
+    "Monitor rice fields regularly for hispa infestations and implement control measures promptly to prevent yield loss."
+  ],
+
+  "Rice__leaf_blast": [
+    "Apply fungicides labeled for leaf blast control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Implement cultural practices such as planting resistant rice varieties and maintaining proper field drainage to reduce leaf blast incidence.",
+    "Monitor for early symptoms of leaf blast and apply fungicides preventively to protect rice plants from infection."
+  ],
+
+  "Rice__neck_blast": [
+    "Apply fungicides labeled for neck blast control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Implement proper field drainage and avoid excessive nitrogen fertilization, as these factors can contribute to neck blast incidence.",
+    "Monitor for early symptoms of neck blast and apply fungicides preventively to protect rice plants from infection."
+  ],
+
+  "Soybean__healthy": [
+    "Implement crop rotation practices to reduce soil-borne diseases and pest pressure.",
+    "Use certified disease-free seeds and plant resistant soybean varieties to minimize the risk of disease outbreaks.",
+    "Maintain proper soil fertility and pH levels through regular soil testing and appropriate fertilization to support healthy soybean growth."
+  ],
+
+  "Squash__powdery_mildew": [
+    "Apply fungicides labeled for powdery mildew control, following recommended application timings and rates to manage and prevent the disease.",
+    "Practice good cultural methods such as ensuring adequate plant spacing to improve air circulation and reduce humidity around plants.",
+    "Remove and destroy infected plant material to reduce the source of powdery mildew spores and prevent further spread."
+  ],
+
+  "Strawberry__leaf_scorch": [
+    "Apply fungicides labeled for leaf scorch control, following recommended application timings and rates.",
+    "Ensure proper irrigation practices, such as using drip irrigation, to keep foliage dry and reduce the risk of infection.",
+    "Remove and destroy infected leaves and plant debris to reduce the source of inoculum and prevent the spread of the disease."
+  ],
+    
+    "Strawberry__healthy": [
+    "Plant strawberries in well-drained soil with plenty of sunlight to promote vigorous growth and reduce disease risk.",
+    "Implement regular fertilization and irrigation schedules to ensure plants receive adequate nutrients and water.",
+    "Monitor for pests and diseases regularly and use integrated pest management (IPM) strategies to keep plants healthy and productive."
+  ],
+
+  "Tea__algal_leaf": [
+    "Implement proper shading to reduce direct sunlight exposure on the tea leaves, which can promote algal growth.",
+    "Ensure proper irrigation management to avoid waterlogging and minimize humidity, as excessive moisture can contribute to algal leaf development.",
+    "Apply approved algaecides or copper-based fungicides to control algal leaf infestations, following recommended application timings and rates."
+  ],
+
+  "Tea__anthracnose": [
+    "Apply fungicides labeled for anthracnose control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Implement cultural practices such as proper spacing between tea plants and removal of infected plant material to reduce disease spread.",
+    "Monitor for early symptoms of anthracnose and apply fungicides preventively to protect tea plants from infection."
+  ],
+
+  "Tea__bird_eye_spot": [
+    "Apply fungicides labeled for bird eye spot control, following recommended application timings and rates.",
+    "Implement cultural practices such as pruning to improve air circulation and reduce humidity within the tea canopy.",
+    "Maintain proper soil fertility and pH levels to promote plant health and vigor, which can help tea plants withstand disease pressure."
+  ],
+
+  "Tea__brown_blight": [
+    "Apply fungicides labeled for brown blight control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Practice good sanitation by removing and destroying infected leaves and pruning tea bushes to remove diseased tissue.",
+    "Monitor for early symptoms of brown blight and apply fungicides preventively to protect tea plants from infection."
+  ],
+
+  "Tea__healthy": [
+    "Implement good cultural practices such as proper pruning, fertilization, and irrigation to promote tea plant health and vigor.",
+    "Monitor for signs of pests and diseases regularly, and promptly address any issues that arise.",
+    "Practice integrated pest management (IPM) strategies to minimize the risk of disease outbreaks and maintain tea plant health."
+  ],
+
+  "Tea__red_leaf_spot": [
+    "Apply fungicides labeled for red leaf spot control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Implement proper field sanitation by removing and destroying infected leaves and pruning tea bushes to remove diseased tissue.",
+    "Monitor for early symptoms of red leaf spot and apply fungicides preventively to protect tea plants from infection."
+  ],
+
+  "Tomato__bacterial_spot": [
+    "Implement crop rotation and remove and destroy infected plant debris to reduce bacterial spot inoculum in the soil.",
+    "Apply copper-based fungicides or bactericides labeled for bacterial spot control, following recommended application timings and rates.",
+    "Avoid overhead irrigation and provide adequate spacing between tomato plants to minimize leaf wetness and reduce disease spread."
+  ],
+
+  "Tomato__early_blight": [
+    "Apply fungicides labeled for early blight control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Practice proper crop rotation and remove and destroy infected plant debris to reduce early blight inoculum in subsequent plantings.",
+    "Ensure proper spacing between tomato plants and provide adequate air circulation to minimize humidity and reduce disease spread."
+  ],
+
+  "Tomato__healthy": [
+    "Implement good cultural practices such as proper irrigation, fertilization, and spacing to promote tomato plant health and vigor.",
+    "Monitor for signs of pests and diseases regularly, and promptly address any issues that arise.",
+    "Practice integrated pest management (IPM) strategies to minimize the risk of disease outbreaks and maintain tomato plant health."
+  ],
+
+  "Tomato__late_blight": [
+    "Apply fungicides labeled for late blight control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Implement cultural practices such as proper irrigation management and fungicide application timings to minimize disease spread.",
+    "Monitor for early symptoms of late blight and apply preventive fungicides to protect tomato plants from infection."
+  ],
+
+  "Tomato__leaf_mold": [
+    "Implement proper plant spacing and provide adequate air circulation to reduce humidity and minimize leaf mold development.",
+    "Apply fungicides labeled for leaf mold control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Avoid overhead irrigation and water tomato plants at the base to minimize leaf wetness and reduce disease spread."
+  ],
+
+  "Tomato__mosaic_virus": [
+    "Plant virus-resistant tomato varieties where available and appropriate for the growing region.",
+    "Implement strict sanitation practices to prevent the spread of mosaic virus, including disinfecting tools and equipment between uses.",
+    "Control aphid populations, which can transmit mosaic virus, through the use of insecticides or biological control methods."
+  ],
+
+  "Tomato__septoria_leaf_spot": [
+    "Apply fungicides labeled for septoria leaf spot control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Practice crop rotation and remove and destroy infected plant debris to reduce septoria leaf spot inoculum in subsequent plantings.",
+    "Maintain proper plant spacing and provide adequate air circulation to minimize humidity and reduce disease spread."
+  ],
+
+  "Tomato__spider_mites_(two_spotted_spider_mite)": [
+    "Implement cultural practices such as regular pruning and removal of infested plant parts to reduce spider mite populations.",
+    "Apply miticides labeled for spider mite control, following recommended application timings and rates.",
+    "Encourage natural predators such as ladybugs and predatory mites to help control spider mite populations in the tomato garden."
+  ],
+
+  "Tomato__target_spot": [
+    "Apply fungicides labeled for target spot control, especially during periods of high disease pressure or when weather conditions favor disease development.",
+    "Practice proper plant spacing and provide adequate air circulation to minimize humidity and reduce target spot development.",
+    "Monitor for early symptoms of target spot and apply fungicides preventively to protect tomato plants from infection."
+  ],
+  
+  "Tomato__yellow_leaf_curl_virus": [
+    "Implement strict sanitation practices to prevent the spread of yellow leaf curl virus, including removal and destruction of infected plants.",
+    "Control whitefly populations, which can transmit yellow leaf curl virus, through the use of insecticides or biological control methods.",
+    "Plant virus-resistant tomato varieties where available and appropriate for the growing region to reduce the risk of infection."
+  ]
+}
