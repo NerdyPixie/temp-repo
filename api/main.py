@@ -13,19 +13,19 @@ handler = Mangum(app)
 
 MODEL = tf.keras.models.load_model('saved_models/model.h5')
 
-classnames_file = '../class_names.txt'
+classnames_file = 'class_names.txt'
 
 # Read class names from the text file using list comprehension
 with open(classnames_file, 'r') as file:
     CLASS_NAMES = [line.strip() for line in file]
 
-with open('../data/counter_measures.json', 'r') as file:
+with open('data\counter_measures.json', 'r') as file:
     countermeasures_dict = json.load(file)
 
-with open('../data/plant_care_data.json', 'r') as f:
+with open('data/plant_care_data.json', 'r') as f:
     plant_care_instructions = json.load(f)
 
-with open('../data/causes_of_disease.json', 'r') as f:
+with open('data/causes_of_disease.json', 'r') as f:
     causes_of_disease = json.load(f)
 
 
